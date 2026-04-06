@@ -28,7 +28,7 @@ A Java system built with **7 classes** as a guided practice project to prepare f
 ## Honest Disclosure
 I did **not** build this entirely on my own. Here's exactly how it was made:
 
-- I received **step-by-step prompts** from an AI assistant (DeepSeek)
+- I received **step-by-step prompts** from an AI assistant 
 - The AI suggested the class structure and OOP concepts to use
 - **I wrote every line of code myself**
 - I understand how all 7 classes work together
@@ -45,7 +45,7 @@ I did **not** build this entirely on my own. Here's exactly how it was made:
 
 ## What I Can Improve Later
 - Calculate late fees based on borrow date
-- Add subclasses(StudentMember/RegularMember) to Member, to customize borrowing base on the borrower.
+- Add subclasses(StudentMember/RegularMember) to Member, to customize borrowing based on the borrower.
 - Better input validation
 
   
