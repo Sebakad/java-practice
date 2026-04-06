@@ -44,9 +44,9 @@ I did **not** build this entirely on my own. Here's exactly how it was made:
 - How to manage multi-class Java project
 
 ## What I Can Improve Later
-- Calculate late fees based on borrow date
+- Calculate late fees based on borrow date.
 - Add subclasses(StudentMember/RegularMember) to Member, to customize borrowing based on the borrower.
-- Better input validation
+- Turn it into a menu-driven system.
 
   
 ## How to Run
